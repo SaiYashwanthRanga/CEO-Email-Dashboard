@@ -1,0 +1,7 @@
+.env
+
+emails.db
+
+inbox_memory_db/
+
+__pycache__/
